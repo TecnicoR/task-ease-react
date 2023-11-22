@@ -20,7 +20,7 @@ TaskEase is a simple yet powerful task manager app built with React, Tailwind CS
 
 1. Clone the repository:
 ```bash
-
+https://github.com/TecnicoR/task-ease-react.git
 ```
 2. Navigate to the project directory:
 ```bash
